@@ -8,6 +8,7 @@ The data model consists of three subject areas:
 [] Items
 [] Traders
 
+
 The Currencies subject area is simple. It contains four tables that store every currency we use and their exchange rates. Currencies are important because:
 
 We will use one currency, called the base currency, for trading. An online stock trading platform will likely use the U.S. dollar (USD) as its base currency, regardless of the traders’ actual regions. All transactions will be converted into the base currency.
